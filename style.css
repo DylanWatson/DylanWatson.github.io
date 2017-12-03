@@ -1,4 +1,110 @@
 body{
-  background-color: #24252d
-  color: #f7f7f9
+  background: #24252d;
+  color: #f7f7f9;
+  padding-left: 20%;
+  padding-right: 20%;
+  font-family: 'Roboto Mono';
+}
+
+
+h1{
+  font-weight: 400;
+  margin:0px;
+}
+
+h2{
+  font-weight: 300;
+  margin:0px;
+}
+
+h3{
+  font-weight: 300;
+  margin:0px;
+}
+
+h4{
+  font-weight: 300;
+}
+
+h5{
+  font-weight: 300;
+  margin:0px;
+}
+
+p{
+  font-weight: 100;
+  margin:0px;
+}
+
+a{
+  font-family: 'Roboto Mono';
+  /*color: #3b73ce*/
+  color: #20abfc
+}
+
+div{
+  margin: 0px;
+}
+
+.green-bar {
+    border-left: 6px solid #43d85e;
+    height: 8.25em;
+    float: left;
+    padding-right: 3em;
+}
+
+.red-bar {
+    border-left: 6px solid #d84343;
+    height: 8.5em;
+    float: left;
+    padding-right: 3em;
+}
+
+.orange-bar {
+    border-left: 6px solid #d87943;
+    height: 8.25em;
+    float: left;
+    padding-right: 3em;
+}
+
+.gold-bar {
+    border-left: 6px solid #dbb636;
+    height: 9.5em;
+    float: left;
+    padding-right: 3em;
+}
+
+.seafoam-bar {
+  border-left: 6px solid #2fceac;
+  height: 9.5em;
+  float: left;
+  padding-right: 3em;
+}
+
+.seablue-bar{
+  border-left: 6px solid #2faece;
+  height: 11em;
+  float: left;
+  padding-right: 3em;
+}
+
+.royalblue-bar{
+  border-left: 6px solid #2f6bce;
+  height: 10em;
+  float: left;
+  padding-right: 3em;
+}
+
+.purple-bar{
+  border-left: 6px solid #992fce;
+  height: 8.5em;
+  float: left;
+  padding-right: 3em;
+}
+
+.fusion-bar{
+  border-left: 6px solid #f44283;
+  height: 10em;
+  float: left;
+  padding-right: 3em;
 }

@@ -38,8 +38,12 @@ p{
 
 a{
   font-family: 'Roboto Mono';
-  /*color: #3b73ce*/
-  color: #20abfc
+  color: #dbb80d;
+  font-weight: 400;
+  /*color: #20abfc*/
+}
+a:link {
+    text-decoration: none;
 }
 
 div{

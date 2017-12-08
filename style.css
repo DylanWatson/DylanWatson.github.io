@@ -46,6 +46,10 @@ a:link {
     text-decoration: none;
 }
 
+a:hover {
+  color: #02ff44;
+}
+
 div{
   margin: 0px;
 }
